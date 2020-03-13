@@ -20,7 +20,7 @@ webtitle: "thouLee's Weblog"
 bio: thouLee
 about: true
 aboutyou: 'I code.'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/船.jpg' # your portraits image file path
 
 # SNS
 SNS: true
